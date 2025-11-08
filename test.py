@@ -1,4 +1,4 @@
-import pytest
+import pytest # type: ignore
 
 # Function to test square
 def square(n):
